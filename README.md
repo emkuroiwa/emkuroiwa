@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Emy</h1>
+<h3 align="center">A passionate Analytics Engineer from Brazil</h3>
 
-<!--
-**emkuroiwa/emkuroiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **dbt**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/emykuroiwa" target="blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="emykuroiwa" " />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Github Stats
+ 
+<p>
+   
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emkuroiwa&show_icons=true&locale=en&layout=compact" alt="emkuroiwa" />
+  
+</p>
+ 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emkuroiwa&show_icons=true&locale=en" alt="emkuroiwa" /></p>
